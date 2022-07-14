@@ -1,5 +1,5 @@
 # Aplicacion de pedidos
- Aplicación de pedidos hecho a partir de php y bootstrap
+ Aplicación de pedidos hecho a partir de php y bootstrap.
  ![image](https://user-images.githubusercontent.com/91051075/152798698-d8333e26-0b9a-4f2a-87f6-a61d05a2ffac.png)
 ![image](https://user-images.githubusercontent.com/91051075/152798798-b3abaf23-af9f-4af5-9fd9-eb22a9a39e0b.png)
 ![image](https://user-images.githubusercontent.com/91051075/152798871-de7f4611-d609-4ac8-9699-b4f5ac156f62.png)
